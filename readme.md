@@ -26,8 +26,8 @@ Build it to look as close as possible to the design provided.
 
 ### Screenshot
 
-![DesktopSsview](./screenshot.jpg)
-![MobileSsview](./screenshot.jpg)
+![Desktop View](DesktopSsview.png)
+![Mobile View](MobileSsviewe.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
