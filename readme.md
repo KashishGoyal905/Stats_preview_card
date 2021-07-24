@@ -30,7 +30,7 @@ Build it to look as close as possible to the design provided.
 ![Mobile View](MobileSsviewe.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ https://www.frontendmentor.io/solutions/static-website-using-html-and-css-yb_CVsRGP](https://your-solution-url.com)
 - Live Site URL: [https://kashishgoyal905.github.io/Stats_preview_card/](https://your-live-site-url.com)
 
 ## My process
