@@ -28,6 +28,7 @@ body {
     background-color: hsl(244, 38%, 16%);
     margin: auto;
     margin-left: 0;
+    background: hsl(277, 71%, 47%);
 }
 
 span {
@@ -53,7 +54,9 @@ span {
 img {
     height: 100%;
     width: 100%;
-    filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8);
+    /* filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8); */
+    mix-blend-mode: multiply;
+    opacity: 0.78;
 }
 
 .stats p {
@@ -82,20 +85,26 @@ img {
     }
     .stats p {
         display: block;
-        margin: 0px 70px;
-        font-size: 10px;
+        margin: 0px 90px;
+        font-size: 15px;
     }
     #heading {
-        font-size: 10px;
+        padding-left: 50px;
+        font-size: 19px;
     }
     .content {
-        height: 350px;
+        height: 450px;
         width: 300px;
         margin: 50px 30px;
         margin-top: 0px;
+        font-size: 9px;
+    }
+    .intro{
         font-size: 10px;
     }
     .image {
+        background:url("D:\Documents\frontend github\Stats_preview_card\mobile.jpg");
+        background: hsl(277, 71%, 47%);
         height: 200px;
         width: 300px;
         margin: 50px 30px;
